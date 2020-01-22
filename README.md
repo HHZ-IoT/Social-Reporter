@@ -1,3 +1,5 @@
 # IoT Social-Reporter
 
-Hier kommst Du auf die Hauptseite dieser [Wiki-Page](https://github.com/HHZ-IoT/Social-Reporter/wiki)!
+Willkommen auf dem Wiki des Projekts SocialReporter!
+
+[Hier] (https://github.com/HHZ-IoT/Social-Reporter/wiki) kommst Du auf die Hauptseite dieser Dokumentation!
